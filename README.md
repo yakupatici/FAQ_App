@@ -47,8 +47,8 @@ python app.py
 
 ## Default Admin Credentials
 
-- Username: admin
-- Password: password
+- Username: 
+- Password: 
 
 **Important:** Change the admin password after first login for security purposes.
 
