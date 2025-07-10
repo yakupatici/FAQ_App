@@ -1,0 +1,47 @@
+Bilgisayarım çok yavaş açılıyor, ne yapabilirim?|1. Başlangıç programlarını kontrol edin ve gereksiz olanları devre dışı bırakın.\n2. Disk temizliği yapın ve gereksiz dosyaları silin.\n3. Anti-virüs taraması yapın.\n4. RAM kullanımını kontrol edin.|PC
+
+Yazıcı kağıt sıkışması sorunu yaşıyorum.|1. Yazıcıyı kapatın ve fişini çekin.\n2. Sıkışan kağıdı yavaşça ve dikkatlice çıkarın.\n3. Kağıt parçası kalmadığından emin olun.\n4. Kağıt tepsisini kontrol edin ve kağıtları düzgün yerleştirin.|Printer
+
+QR kod yazıcısı etiketleri düzgün basmıyor.|1. Etiket boyutlarının doğru ayarlandığından emin olun.\n2. Yazıcı kafasını temizleyin.\n3. Etiket rulosunun doğru yerleştirildiğini kontrol edin.\n4. Yazıcı sürücüsü ayarlarını kontrol edin.|QR Code Printer
+
+İnternet bağlantım sürekli kesiliyor.|1. Modem/router'ı yeniden başlatın.\n2. WiFi sinyalini kontrol edin.\n3. Ağ kartı sürücülerinin güncel olduğundan emin olun.\n4. IT departmanı ile iletişime geçin.|Network
+
+Hastane yazılımına giriş yapamıyorum.|1. Kullanıcı adı ve şifrenizi kontrol edin.\n2. Caps Lock tuşunun kapalı olduğundan emin olun.\n3. Şifrenizi sıfırlamayı deneyin.\n4. Sistem yöneticinizle iletişime geçin.|Software
+
+Ekranım aniden maviye döndü (Blue Screen).|1. Son yapılan değişiklikleri geri alın.\n2. Windows güncellemelerini kontrol edin.\n3. Sürücüleri güncelleyin.\n4. Bellek testi yapın.|PC
+
+Yazıcı çıktısı çok soluk geliyor.|1. Toner/kartuş seviyesini kontrol edin.\n2. Yazıcı ayarlarından baskı kalitesini artırın.\n3. Yazıcı kafasını temizleyin.\n4. Gerekirse kartuşu değiştirin.|Printer
+
+QR kod okuyucu çalışmıyor.|1. USB bağlantısını kontrol edin.\n2. Cihazın sürücülerini güncelleyin.\n3. Farklı bir USB portu deneyin.\n4. Cihazı yeniden başlatın.|QR Code Printer
+
+Dosyalarım açılmıyor.|1. Dosya uzantısını kontrol edin.\n2. İlgili programın yüklü olduğundan emin olun.\n3. Dosyayı farklı bir programla açmayı deneyin.\n4. Dosyanın bozuk olmadığından emin olun.|Software
+
+E-postalarım gönderilmiyor.|1. İnternet bağlantınızı kontrol edin.\n2. E-posta sunucu ayarlarını kontrol edin.\n3. Spam filtresini kontrol edin.\n4. E-posta kotanızı kontrol edin.|Network
+
+Hasta kayıt sisteminde hasta bilgileri görünmüyor.|1. Veritabanı bağlantısını kontrol edin.\n2. Hasta arama filtrelerini temizleyin.\n3. Tarayıcı önbelleğini temizleyin.\n4. Sistem yöneticisine bildirin.|Software
+
+Laboratuvar sonuçları sisteme düşmüyor.|1. Laboratuvar cihazı bağlantısını kontrol edin.\n2. Sonuç gönderme servisinin çalıştığından emin olun.\n3. Ağ bağlantısını test edin.\n4. Laboratuvar personeli ile iletişime geçin.|Software
+
+PACS görüntüleri açılmıyor.|1. PACS görüntüleyici yazılımının çalıştığından emin olun.\n2. İnternet bağlantısını kontrol edin.\n3. Tarayıcı eklentilerini kontrol edin.\n4. PACS sunucu durumunu kontrol edin.|Software
+
+Barkod yazıcısı hatalı basıyor.|1. Barkod formatını kontrol edin.\n2. Yazıcı ayarlarını kontrol edin.\n3. Etiket boyutlarının doğru olduğundan emin olun.\n4. Test baskısı yapın.|Printer
+
+Hasta monitörü veri göndermiyor.|1. Monitör ağ bağlantısını kontrol edin.\n2. Monitör yazılımının çalıştığından emin olun.\n3. Hasta ID eşleştirmesini kontrol edin.\n4. Monitör kalibrasyonunu kontrol edin.|Network
+
+Randevu sistemi çok yavaş çalışıyor.|1. Sunucu yükünü kontrol edin.\n2. Veritabanı optimizasyonu yapın.\n3. Tarayıcı önbelleğini temizleyin.\n4. Sistem kullanım saatlerini optimize edin.|Software
+
+Elektronik reçete sistemi hata veriyor.|1. E-imza sertifikasını kontrol edin.\n2. Medula sisteminin çalıştığından emin olun.\n3. İnternet bağlantısını kontrol edin.\n4. Reçete formatını kontrol edin.|Software
+
+Tarayıcı düzgün tarama yapmıyor.|1. Tarayıcı camını temizleyin.\n2. Tarayıcı sürücülerini güncelleyin.\n3. Tarama ayarlarını kontrol edin.\n4. USB bağlantısını kontrol edin.|PC
+
+Hasta çağrı sistemi çalışmıyor.|1. Ekran bağlantılarını kontrol edin.\n2. Ses sistemini test edin.\n3. Çağrı yazılımının çalıştığından emin olun.\n4. Sistem güncellemelerini kontrol edin.|Software
+
+Uzak masaüstü bağlantısı kurulamıyor.|1. VPN bağlantısını kontrol edin.\n2. Uzak bilgisayarın açık olduğundan emin olun.\n3. Firewall ayarlarını kontrol edin.\n4. RDP servisinin çalıştığından emin olun.|Network
+
+Ameliyathane ekranları donuyor.|1. Sistem kaynaklarını kontrol edin.\n2. Görüntü kartı sürücülerini güncelleyin.\n3. Sistem soğutmasını kontrol edin.\n4. Yazılım güncellemelerini kontrol edin.|PC
+
+Veri yedekleme hatası alıyorum.|1. Disk kapasitesini kontrol edin.\n2. Yedekleme yazılımının ayarlarını kontrol edin.\n3. Ağ bağlantısını test edin.\n4. Yedekleme loglarını inceleyin.|Software
+
+Güvenlik kameraları görüntü vermiyor.|1. Kamera bağlantılarını kontrol edin.\n2. NVR cihazının çalıştığından emin olun.\n3. Ağ bağlantısını test edin.\n4. Kamera güç kaynağını kontrol edin.|Network
+
+Personel kartı okuyucu çalışmıyor.|1. USB bağlantısını kontrol edin.\n2. Kart okuyucu sürücülerini güncelleyin.\n3. Kartın hasarlı olmadığından emin olun.\n4. Sistem ayarlarını kontrol edin.|PC 
