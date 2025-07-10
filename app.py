@@ -270,8 +270,10 @@ def internal_error(error):
 def not_found_error(error):
     return render_template('error.html', error=error), 404
 
+# Production ortamında tablo oluşturma ve admin yaratma
+with app.app_context():
+    db.create_all()
+    create_admin()
+
 if __name__ == '__main__':
-    with app.app_context():
-        db.create_all()
-        create_admin()
     app.run(debug=True, port=5001) 
